@@ -1,4 +1,4 @@
-domain_name        = "trainingdevops.cloud"
+domain_name        = "josegp.online"
 hostname           = "s3-website"
 project_name       = "zomato"
 project_env        = "prod"
